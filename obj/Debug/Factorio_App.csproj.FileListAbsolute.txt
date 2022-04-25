@@ -1,0 +1,20 @@
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\bin\Debug\Factorio_App.exe.config
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\bin\Debug\Factorio_App.exe
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\bin\Debug\Factorio_App.pdb
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\obj\Debug\Factorio_App.csprojAssemblyReference.cache
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\obj\Debug\Factorio_App.Form1.resources
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\obj\Debug\Factorio_App.Properties.Resources.resources
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\obj\Debug\Factorio_App.csproj.GenerateResource.cache
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\obj\Debug\Factorio_App.exe
+C:\Users\texur\source\repos\Factorio_App\Factorio_App\obj\Debug\Factorio_App.pdb
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\bin\Debug\Factorio_App.exe.config
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\bin\Debug\Factorio_App.exe
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\bin\Debug\Factorio_App.pdb
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.csproj.AssemblyReference.cache
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.Form1.resources
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.Properties.Resources.resources
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.csproj.GenerateResource.cache
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.csproj.CoreCompileInputs.cache
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.exe
+C:\Users\sgamatee\Desktop\Applications for Lecture\Factorio\Factorio_App\obj\Debug\Factorio_App.pdb
